@@ -245,6 +245,9 @@ Ahora podemos ver nuestros SOLETE
 Y nuestra temporizacion
 ![Captura](./capturas/tarea-1-39.png)
 
+POR FIN!!!!! ALELUYA
+![Captura](./capturas/tarea-1-40.png)
+
 <br>
 <br>
 <br>
